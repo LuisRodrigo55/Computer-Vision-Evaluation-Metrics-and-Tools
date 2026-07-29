@@ -1,6 +1,5 @@
 ## Comprehensive Guide to Computer Vision Evaluation Metrics and Tools
 
-(Note: This is a living document outlining the evaluation landscape of computer vision models.)
 
 ## Part 1: The Evaluation Mindset
 
